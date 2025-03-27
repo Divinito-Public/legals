@@ -1,8 +1,4 @@
-Voici une version adaptée pour une **Politique de Confidentialité des Données** conforme au RGPD, basée sur votre texte initial et adaptée au projet **Divinito**.
-
----
-
-### **Politique de Confidentialité de Divinito**  
+# Politique de Confidentialité de Divinito  
 
 **Dernière mise à jour : 27 mars 2025**
 
