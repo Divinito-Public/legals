@@ -35,11 +35,6 @@ Chez Divinito, chaque produit est rigoureusement sélectionné par notre équipe
 * **Qualité irréprochable** : Chaque produit est conçu et développé avec soin pour allier performance, durabilité et esthétique.  
 * **Engagement client** : Votre satisfaction est notre priorité, de la conception à la livraison.
 
-## **Approuvé par les leaders de l'industrie**
-
-## 
-
-**TransistorReformTuple**
 
 ## **Notre équipe**
 
