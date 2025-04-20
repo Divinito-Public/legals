@@ -13,10 +13,10 @@ R: Une cave de vieillissement est conçue pour conserver vos vins sur le long te
 R: Cela dépend de votre espace et de vos besoins. Les caves encastrables s'intègrent parfaitement dans votre cuisine ou mobilier, mais offrent généralement moins de capacité. Les caves à pose libre offrent plus de flexibilité d'emplacement et souvent une plus grande capacité, mais nécessitent un espace dédié.
 
 **Q: Quelle température est idéale pour conserver mon vin ?**  
-R: Pour le vieillissement, une température constante entre 10°C et 14°C est recommandée. Pour le service, les températures varient selon le type de vin : 8-10°C pour les champagnes, 10-12°C pour les blancs secs, 12-14°C pour les blancs moelleux, 14-16°C pour les rouges légers, 16-18°C pour les rouges corsés.
+R: Pour le vieillissement, une température constante entre 10 °C et 14 °C est recommandée. Pour le service, les températures varient selon le type de vin : 8-10 °C pour les champagnes, 10-12 °C pour les blancs secs, 12-14 °C pour les blancs moelleux, 14-16 °C pour les rouges légers, 16-18 °C pour les rouges corsés.
 
 **Q: Qu'est-ce que l'hygrométrie et pourquoi est-elle importante ?**  
-R: L'hygrométrie est le taux d'humidité de l'air. Pour une conservation optimale du vin, elle doit être maintenue entre 60% et 75%. Une hygrométrie trop faible dessèche les bouchons, tandis qu'une hygrométrie trop élevée favorise les moisissures et détériore les étiquettes.
+R: L'hygrométrie est le taux d'humidité de l'air. Pour une conservation optimale du vin, elle doit être maintenue entre 60 % et 75 %. Une hygrométrie trop faible dessèche les bouchons, tandis qu'une hygrométrie trop élevée favorise les moisissures et détériore les étiquettes.
 
 ### Aspects techniques
 
@@ -30,7 +30,7 @@ R: Oui, les vibrations régulières peuvent perturber le processus de vieillisse
 R: La consommation varie selon la taille, la technologie et la classe énergétique. En moyenne, une cave de taille moyenne consomme entre 100 et 200 kWh par an. Nos produits affichent clairement leur classe énergétique et consommation annuelle estimée.
 
 **Q: Peut-on installer une cave à vin dans un garage ou une pièce non chauffée ?**  
-R: Cela dépend du modèle. Certaines caves sont conçues pour fonctionner dans des environnements entre 0°C et 35°C (classe climatique SN-T), tandis que d'autres ont une plage de fonctionnement plus restreinte. Vérifiez toujours la classe climatique avant l'achat.
+R: Cela dépend du modèle. Certaines caves sont conçues pour fonctionner dans des environnements entre 0 °C et 35 °C (classe climatique SN-T), tandis que d'autres ont une plage de fonctionnement plus restreinte. Vérifiez toujours la classe climatique avant l'achat.
 
 ### Livraison et installation
 
