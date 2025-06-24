@@ -30,7 +30,8 @@ Conformément à l’article L.221-28 du Code de la consommation, le droit de r�
 Aux produits confectionnés selon vos spécifications ou nettement personnalisés (ex : caves à vin sur mesure)
 Aux produits descellés après la livraison et qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé
 Aux produits qui, après avoir été livrés, ont été mélangés de manière indissociable avec d’autres articles
-6. Garanties légales
+
+### 6. Garanties légales
 Indépendamment du droit de rétractation, vous bénéficiez :
 
 De la garantie légale de conformité (articles L.217-4 à L.217-14 du Code de la consommation) pendant 2 ans à compter de la délivrance du bien
