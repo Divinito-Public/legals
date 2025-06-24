@@ -50,3 +50,26 @@ Nous nous réservons le droit de modifier ces CGV à tout moment. Les modificati
 ## 7. Loi Applicable et Juridiction
 
 Les présentes CGV sont régies par les lois françaises en vigueur. Tout litige découlant de ces CGV sera soumis à la compétence exclusive des tribunaux de Nantes. Pour toute question ou préoccupation concernant ces CGV, veuillez nous contacter à contact@divinito.fr.
+
+## 8. Droit de rétractation (Clients consommateurs)
+Conformément à l’article L.221-18 du Code de la consommation, le client consommateur dispose d’un délai de quatorze (14) jours pour exercer son droit de rétractation.
+
+Les modalités détaillées de retour, les exceptions et le formulaire type de rétractation sont disponibles sur la page dédiée Politique de retour et de rétractation : https://divinito.fr/fr/politique-retour
+
+Formulaire type de rétractation
+(Veuillez compléter et renvoyer ce formulaire uniquement si vous souhaitez vous rétracter du contrat.)
+
+"À l’attention de Divinito, Angers French Tech, 8 Pl. Mgr Rumeau, 49100 Angers, contact@divinito.fr
+
+Je vous notifie par la présente ma rétractation du contrat portant sur la vente du bien ci-dessous :
+
+Commande n° : ………………………………
+Commandé le : ………………………………
+Reçu le : ………………………………
+Nom du client : ………………………………
+Adresse du client : ………………………………
+Signature du client (uniquement en cas de notification sur papier) :
+Date : ………………………………"
+
+## 9. Absence de droit de rétractation pour les professionnels
+Le droit de rétractation ne s’applique pas aux achats réalisés par des clients professionnels, sauf stipulation contraire expresse.
