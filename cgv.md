@@ -63,12 +63,12 @@ Formulaire type de rétractation
 
 Je vous notifie par la présente ma rétractation du contrat portant sur la vente du bien ci-dessous :
 
-Commande n° : ………………………………  
-Commandé le : ………………………………  
-Reçu le : ………………………………  
-Nom du client : ………………………………  
-Adresse du client : ………………………………  
-Signature du client (uniquement en cas de notification sur papier) :  
+Commande n° : ………………………………<br>
+Commandé le : ………………………………<br>
+Reçu le : ………………………………<br>
+Nom du client : ………………………………<br>
+Adresse du client : ………………………………<br>
+Signature du client (uniquement en cas de notification sur papier) :  <br>
 Date : ………………………………"  
 
 ## 9. Absence de droit de rétractation pour les professionnels
