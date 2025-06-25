@@ -2,7 +2,7 @@
 
 **Date d'entrée en vigueur : 31 octobre 2024**
 
-L'entreprise Divinito ci dénommé après "vendeur"
+L'entreprise Divinito ci dénommé après "vendeur". Divinito est un service opéré par 0FC.TECH immatriculé au RCS d'Angers 917429516 (TVA numéro FR84917429516)
 
 ## 1. Acceptation des Conditions
 
