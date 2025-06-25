@@ -5,6 +5,10 @@ Conformément aux articles L.221-18 et suivants du Code de la consommation, vous
 
 Pour exercer ce droit, vous devez notifier votre décision de rétractation avant l’expiration du délai de 14 jours, par tout moyen dénué d’ambiguïté (par exemple, lettre envoyée par la poste, courrier électronique, ou en utilisant le formulaire ci-dessous).
 
+Conformément à la législation en vigueur, en cas d’exercice du droit de rétractation, les frais de retour des produits restent à la charge du client. Nous n’assumons pas la prise en charge de ces frais.
+
+Le client devra donc s’acquitter de l’ensemble des coûts liés au retour du ou des produit(s) concerné(s).
+
 ### 2. Modalités de retour
 Après notification de votre rétractation, vous disposez d’un délai maximum de quatorze (14) jours pour nous retourner le produit, à vos frais.
 
